@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Seav Phov</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="featured">Featured</string>
+    <string name="listens">Listens</string>
+    <string name="free">Free</string>
+    <string name="inspiration">Inspiration</string>
+    <string name="emotion">Emotion</string>
+    <string name="history">History</string>
+    <string name="long_text">In your feelings, work, or family, do you have the experience of do not want to do it, but still do it?Has anyone been living in the expectations of others?   In your feelings, work, or family, do you have the experience of do not want to do it, but still do it?Has anyone been living in the expectations of others?   In your feelings, work, or family, do you have the experience of do not want to do it, but still do it?Has anyone been living in the expectations of others?</string>
+    <string name="simi_long_text">In your feelings, work, or family, do you have the experience of do not want to do it, but still do it?Has anyone been living in the expectations of others?</string>
+    <string name="back">back</string>
+</resources>
